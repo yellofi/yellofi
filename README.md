@@ -1,7 +1,5 @@
-### 👋
+Hi, I'm Yunseob Hwang
 
-> Machine Learning Engineer
-
-> Mainly contributed to AI-based fault diagnosis so far
-
-> 👉 [CV](https://github.com/YunseobHwang/CV)
+- Machine Learning Engineer
+- Mainly Contributed to ML-based Fault Diagnosis So far
+- 👉 [CV](https://github.com/YunseobHwang/CV)
