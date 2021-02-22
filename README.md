@@ -5,5 +5,5 @@
 
 <p align="center">
      <img alt="profile" src="./images/profile.gif"
-          width=2000 />
+          width=150% />
 </p>
