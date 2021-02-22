@@ -1,6 +1,6 @@
 ## Hi, I'm Yunseob Hwang
 
-- Mainly Contributed to ML-based Fault Diagnosis So far
+- Mainly Contributed to DL-based Fault Diagnosis So far
 - Further Information 👉 [CV](https://github.com/YunseobHwang/CV)
 
 <p align="center">
