@@ -3,4 +3,7 @@
 - Mainly Contributed to ML-based Fault Diagnosis So far
 - Further Information 👉 [CV](https://github.com/YunseobHwang/CV)
 
-![profile](./images/profile.gif)
+<p align="center">
+     <img alt="profile" src="./images/profile.gif"
+          width=500 />
+</p>
