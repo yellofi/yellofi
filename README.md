@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Machine Learning Engineer
+>> Machine Learning Engineer
 
-### Mainly contributed to AI-based fault diagnosis so far
+>> Mainly contributed to AI-based fault diagnosis so far
 
-Are you interested in me? 👉 [CV](https://github.com/YunseobHwang/CV)
+### Are you interested in me? 👉 [CV](https://github.com/YunseobHwang/CV)
