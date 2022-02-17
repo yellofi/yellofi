@@ -1,9 +1,8 @@
 ## Hi, I'm Yunseob Hwang
 
-2019.02 ~ 2021.02 - MS at industrial AI Lab, POSTECH
+2022.02 ~ - ML engineer / Deep Bio inc
 
-- Mainly Contributed to DL-based Fault Diagnosis So far
-- Further Information 👉 [CV](https://github.com/YunseobHwang/CV)
+👉 [CV](https://github.com/YunseobHwang/CV)
 
 <p align="center">
      <img alt="profile" src="./images/profile.gif"
