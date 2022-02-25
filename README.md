@@ -1,6 +1,8 @@
 ## Hi, I'm Yunseob Hwang
 
-2022.02 ~ - ML/DL engineer / Deep Bio inc
+DL-based Fault (Defect) Diagnosis so far 
+
+From now on, Computer Vision in Pathology Image Analysis
 
 👉 [CV](https://github.com/YunseobHwang/CV)
 
