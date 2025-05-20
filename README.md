@@ -12,7 +12,7 @@
 
 ## Others
 - Lead developer of **DeepCDx Membrane IHC** at Deep Bio Inc. – [YouTube](https://www.youtube.com/watch?v=eSWxTAvATYo&t=1s)  
-- First-author publication selected as **Top Cited Article 2022–2023 (Wiley)** – [Digestive Endoscopy](https://onlinelibrary.wiley.com/doi/abs/10.1111/den.13787)  
+- First-author publication selected as **Top Cited Article 2021–2022 (Wiley)** – [Digestive Endoscopy](https://onlinelibrary.wiley.com/doi/abs/10.1111/den.13787)  
 
 ---
 
