@@ -8,7 +8,7 @@
 
 ## Deep Dive
 - [CV](https://drive.google.com/file/d/15gjxL799NhjE35IYIzenwo_HJadQqOUe/view?usp=drive_link)  
-- [Portfolio](https://drive.google.com/file/d/15gjxL799NhjE35IYIzenwo_HJadQqOUe/view?usp=drive_link)  
+- [Portfolio]([https://drive.google.com/file/d/15gjxL799NhjE35IYIzenwo_HJadQqOUe/view?usp=drive_link](https://docs.google.com/presentation/d/1_Y0MMXnjyqzWdbudlGtR1QdSf5sPgCkQu-WFzjGFm7c/edit?usp=sharing))  
 
 ## Others
 - Lead developer of **DeepCDx Membrane IHC** at Deep Bio Inc. – [YouTube](https://www.youtube.com/watch?v=eSWxTAvATYo&t=1s)  
